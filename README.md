@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![github](https://img.shields.io/github/followers/zettaittenani?label=Follow%20%40zettaittenani&style=social)](https://github.com/zettaittenani)
+[![twitter](https://img.shields.io/twitter/follow/zettaittenani?style=social)](https://twitter.com/zettaittenani)
+
 [![zettaittenani's github stats](https://github-readme-stats.vercel.app/api?username=zettaittenani)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zettaittenani&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zettaittenani&hide=jupyternotebook,html,css&exclude_repo=emacs-digdag-mode)
