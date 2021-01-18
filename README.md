@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![twitter](https://img.shields.io/twitter/follow/zettaittenani?style=social)](https://twitter.com/zettaittenani)
 
 [![zettaittenani's github stats](https://github-readme-stats.vercel.app/api?username=zettaittenani)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zettaittenani&hide=jupyternotebook,html,css&exclude_repo=emacs-digdag-mode)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zettaittenani&langs_count=5&hide=jupyternotebook,html,css,emacs&exclude_repo=dotfiles,emacs-digdag-mode,nats-trigger)
